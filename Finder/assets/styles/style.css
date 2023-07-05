@@ -59,10 +59,13 @@
 .sell__blck{
     width: 200px;
     height: 350px;
-    margin-right: 20px;
+    margin-right: 20px; 
 }
 .bnr{
-
+    width: 100%;
+    text-align: center;
+    background-color: #b37ee0;
+    padding: 20px 0px;
 }
 .sl__blk{
     display: flex;
